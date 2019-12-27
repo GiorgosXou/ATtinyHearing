@@ -1,5 +1,5 @@
 ﻿# 🙉 "Hearing"
-"Hearing" Is a funny and simple Christmas 🤶🏻🎅🏻 Project - Gift, made to inspire beginners in Electronics, and not only [...] A Tiny PCB with an"ATtiny10 or 85" microcontroller on Bottom which plays song-sounds through a piezoelectric plate, intended to be used as an earring [...]
+"Hearing" Is a funny and simple Christmas 🤶🏻🎅🏻 Project - Gift, made to inspire beginners in Electronics, and not only [...] A Tiny PCB with an "ATtiny10 or 85" microcontroller on Bottom which plays song-sounds through a piezoelectric plate, intended to be used as an earring [...]
 
 
 # PCB Versions
@@ -48,8 +48,9 @@ Methods Used to Program *ATtiny10*<br>
 # 📹 Video & Images
 [![](http://img.youtube.com/vi/1UqGlBQeKq4/0.jpg)](http://www.youtube.com/watch?v=1UqGlBQeKq4 "")
 
+*comming soon...*
 # 🌐 Internet Links
-
+*comming soon...*
 # 💳 Donation
 + Bitcoin Address: 112xERhVsCR4xx741nU3rA4R3yEBD2fMyR
 # 💛 Outro
