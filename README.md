@@ -57,3 +57,4 @@ Methods Used to Program *ATtiny10*<br>
 
  Εικόνα που βλέπει το "εγώ", θυμίζει κουτί που δε βλέπεις, εικόνα που χάνεις• σκιά που 'τε φως και να βλέπεις, ακούει τα λόγια που λες: [...][ ‮#i📁👁](https://www.instagram.com/giorgos.xou/)
 
+I wish love and happiness to Everyone! <3
