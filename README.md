@@ -1,4 +1,4 @@
-﻿# "Hearing"
+﻿# 🙉 "Hearing"
 "Hearing" Is a funny and simple Christmas Project - Gift, made to inspire beginners in Electronics, and not only [...] A Tiny PCB with an"ATtiny10 or 85" microcontroller on Bottom which plays song-sounds through a piezoelectric plate, intended to be used as an earring [...]
 
 
