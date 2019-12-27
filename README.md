@@ -2,14 +2,14 @@
 "Hearing" Is a funny and simple Christmas Project - Gift, made to inspire beginners in Electronics, and not only [...] A Tiny PCB with an"ATtiny10 or 85" microcontroller on Bottom which plays song-sounds through a piezoelectric plate, intended to be used as an earring [...]
 
 
-# ✒️ PCB Versions
+# PCB Versions
 *[```Link: Versions```](https://easyeda.com/gxousos/tinymusicalearing)*
 
 |[v1.0.0](https://easyeda.com/editor#id=460c792bdeb14df49b22bafdbc1c2439)|[v2.0.0](https://easyeda.com/editor#id=cc25afc377a7449d9af5e2e83bf3eaca) |v3.0.0|
 |-|-|-|
 |<img src="https://i.imgur.com/3quR8h7.jpg" width="150" height="150"/>|<img src="https://i.imgur.com/Vghtdj0.jpg" width="150" height="150"/>|<img src="https://i.imgur.com/fpBgOhz.jpg" width="150" height="150"/>|
 |*Made & Used*|*Made & Not Used*|*Probably Coming?*|
-# 📝 Parts & Infos
+# Parts & Infos
 
 ### `Parts`
 | ❕ Needed | ❔ Depends |
@@ -50,5 +50,5 @@ Methods Used to Program *ATtiny10*<br>
 # 🌐 Internet Links
 
 
-#💛 Outro
+# 💛 Outro
 
