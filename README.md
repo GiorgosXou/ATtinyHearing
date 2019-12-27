@@ -1,4 +1,4 @@
-﻿# 👂 "Hearing"
+﻿# "Hearing"
 "Hearing" Is a funny and simple Christmas Project - Gift, made to inspire beginners in Electronics, and not only [...] A Tiny PCB with an"ATtiny10 or 85" microcontroller on Bottom which plays song-sounds through a piezoelectric plate, intended to be used as an earring [...]
 
 
@@ -25,7 +25,7 @@
 |.||||
 |Both|Piezoelectric Plate|❕|[~0.98 - 10pcs](https://www.ebay.com/itm/10-Pcs-Piezoelectric-Piezo-Ceramic-Wafer-Plate-Dia-15mm-For-Buzzer-Loudspeaker/123056838637?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)|
 |Both|CR1220/25/55 Holders|❕|[~1.41€ - 5pcs](https://www.aliexpress.com/item/33013461583.html?spm=a2g0s.9042311.0.0.f8694c4dkP1uS3)|
-|Both|CR1220/25/55 Coin Cell|❔| - |
+|Both|CR1220/25/55 Coin Cell|❕| - |
 |Both|1P2T Switch MSK-12C02|❕|[~2.24€ - 20pcs](https://www.ebay.com/itm/20PCS-Mini-SPDT-1P2T-Slide-Switch-On-Off-MSK-12C02-SMD-7P-For-MP3-MP4/151723531917?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)|
 
 ### `Infos`
