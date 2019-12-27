@@ -50,6 +50,8 @@ Methods Used to Program *ATtiny10*<br>
 
 # 🌐 Internet Links
 
-
+# 💳 Donation
++ Bitcoin Address: 112xERhVsCR4xx741nU3rA4R3yEBD2fMyR
 # 💛 Outro
 
+ Εικόνα που βλέπει το "εγώ", θυμίζει κουτί που δε βλέπεις, εικόνα που χάνεις• σκιά που 'τε φως και να βλέπεις, ακούει τα λόγια που λες: [...][ ‮#i📁👁](https://www.instagram.com/giorgos.xou/)
