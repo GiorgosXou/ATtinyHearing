@@ -51,7 +51,6 @@ Methods Used to Program *ATtiny10*<br>
 
 *comming soon...*
 # 🌐 Internet Links
-*comming soon...*
 
 |ATtiny10 Projects|Random ATtiny10|ATtiny10|
 |-|-|-|
@@ -64,7 +63,7 @@ Methods Used to Program *ATtiny10*<br>
 + Bitcoin Address: 112xERhVsCR4xx741nU3rA4R3yEBD2fMyR
 # 💛 Outro
 
-Things went a little bit random and fast forward, thus have in mind that the way i used to program ATtiny10 might wasn't the best way and etc...
+Things went a little bit random and fast forward, thus the way i used to program ATtiny10, have in mind that it might wasn't the best way and etc...
 
  Εικόνα που βλέπει το "εγώ", θυμίζει κουτί που δε βλέπεις, εικόνα που χάνεις• σκιά που 'τε φως και να βλέπεις, ακούει τα λόγια που λες: [...][ ‮#i📁👁](https://www.instagram.com/giorgos.xou/)
 
