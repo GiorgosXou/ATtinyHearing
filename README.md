@@ -52,9 +52,19 @@ Methods Used to Program *ATtiny10*<br>
 *comming soon...*
 # 🌐 Internet Links
 *comming soon...*
+
+|ATtiny10 Projects|Random ATtiny10|ATtiny10|
+|-|-|-|
+|[Led Blinker for 6 Months](https://atmelcorporation.wordpress.com/2013/09/17/avr-attiny10-runs-led-blinker-for-6-months/)|[ATtiny10 TPI USBASP](http://mirekk36.blogspot.com/2013/07/attiny10-tpi-usbasp-mkavrcalculator.html)|[ATtiny10 core](https://github.com/technoblogy/attiny10core)|
+|[ATtiny10 IDE](https://github.com/wholder/ATTiny10IDE)|[Issue?](https://forum.arduino.cc/index.php?topic=570920.0)|[```Programming the ATtiny10```](http://www.technoblogy.com/show?1YQY)|
+|[ATtiny10 Thermometer PCB](http://www.technoblogy.com/show?2GPX)|[Hackaday](https://hackaday.io/project/158284-attiny10-dev-environment-on-arduino-ide)|[```Toolchain Issue```](https://groups.google.com/a/arduino.cc/forum/#!topic/developers/Ny82s7t11Vc)|
+||[-](https://www.avrfreaks.net/forum/how-program-attiny10-sparkfun-pocket-avr-programmer-usbtiny)|[```Programming ATtiny10 - TPI```](https://make.kosakalab.com/make/electronic-work/arduino_tpi_en/)|
+||[bitDuino](https://github.com/maris-HY/bitDuino)||
 # 💳 Donation
 + Bitcoin Address: 112xERhVsCR4xx741nU3rA4R3yEBD2fMyR
 # 💛 Outro
+
+Things went a little bit random and fast forward, thus have in mind that the way i used to program ATtiny10 might wasn't the best way and etc...
 
  Εικόνα που βλέπει το "εγώ", θυμίζει κουτί που δε βλέπεις, εικόνα που χάνεις• σκιά που 'τε φως και να βλέπεις, ακούει τα λόγια που λες: [...][ ‮#i📁👁](https://www.instagram.com/giorgos.xou/)
 
