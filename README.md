@@ -60,6 +60,7 @@ Methods Used to Program *ATtiny10*<br>
 ||[-](https://www.avrfreaks.net/forum/how-program-attiny10-sparkfun-pocket-avr-programmer-usbtiny)|[```Programming ATtiny10 - TPI```](https://make.kosakalab.com/make/electronic-work/arduino_tpi_en/)|
 ||[bitDuino](https://github.com/maris-HY/bitDuino)||
 # 💳 Donation
++ [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AT5TL3QSL6SLS&source=url)
 + Bitcoin Address: 112xERhVsCR4xx741nU3rA4R3yEBD2fMyR
 # 💛 Outro
 
