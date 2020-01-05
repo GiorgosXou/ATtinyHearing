@@ -58,7 +58,7 @@ Methods Used to Program *ATtiny10*<br>
 |[ATtiny10 IDE](https://github.com/wholder/ATTiny10IDE)|[Issue?](https://forum.arduino.cc/index.php?topic=570920.0)|[```Programming the ATtiny10```](http://www.technoblogy.com/show?1YQY)|
 |[ATtiny10 Thermometer PCB](http://www.technoblogy.com/show?2GPX)|[Hackaday](https://hackaday.io/project/158284-attiny10-dev-environment-on-arduino-ide)|[```Toolchain Issue```](https://groups.google.com/a/arduino.cc/forum/#!topic/developers/Ny82s7t11Vc)|
 ||[-](https://www.avrfreaks.net/forum/how-program-attiny10-sparkfun-pocket-avr-programmer-usbtiny)|[```Programming ATtiny10 - TPI```](https://make.kosakalab.com/make/electronic-work/arduino_tpi_en/)|
-||[bitDuino](https://github.com/maris-HY/bitDuino)||
+||[bitDuino](https://github.com/maris-HY/bitDuino)|[tone() without tone() Library](https://forum.arduino.cc/index.php?topic=339625.0)|
 # 💳 Donation
 + [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AT5TL3QSL6SLS&source=url)
 + Bitcoin Address: 112xERhVsCR4xx741nU3rA4R3yEBD2fMyR
