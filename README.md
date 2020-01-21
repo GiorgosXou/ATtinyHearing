@@ -23,10 +23,11 @@
 |v2.0.0|0402 1005 Yellow LED |❕|[~1.98€ - 25pcs](https://www.ebay.com/itm/0402-0603-0805-1206-1210-3528-5050-SMD-SMT-LED-Diodes-White-Red-Blue-Light-Bulb/383101301756?ssPageName=STRK%3AMEBIDX%3AIT&var=651681270973&_trksid=p2057872.m2749.l2649)|
 |v2.0.0|0603 "470" - 47ohm|❕| - |
 |.||||
-|Both|Piezoelectric Plate|❕|[~0.98 - 10pcs](https://www.ebay.com/itm/10-Pcs-Piezoelectric-Piezo-Ceramic-Wafer-Plate-Dia-15mm-For-Buzzer-Loudspeaker/123056838637?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)|
+|Both|Piezoelectric Plate|❕|[~0.98€ - 10pcs](https://www.ebay.com/itm/10-Pcs-Piezoelectric-Piezo-Ceramic-Wafer-Plate-Dia-15mm-For-Buzzer-Loudspeaker/123056838637?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)|
 |Both|CR1220/25/55 Holders|❕|[~1.41€ - 5pcs](https://www.aliexpress.com/item/33013461583.html?spm=a2g0s.9042311.0.0.f8694c4dkP1uS3)|
 |Both|CR1220/25/55 Coin Cell|❕| - |
 |Both|1P2T Switch MSK-12C02|❕|[~2.24€ - 20pcs](https://www.ebay.com/itm/20PCS-Mini-SPDT-1P2T-Slide-Switch-On-Off-MSK-12C02-SMD-7P-For-MP3-MP4/151723531917?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)|
+|Both|Ear Hooks|❔|[~1.80€ 20pcs](https://www.ebay.com/itm/Wholesale-DIY-20PCS-18K-GOLD-Plated-Jewelry-Findings-Bail-Ear-Hooks-Earring-NEW/351403281846?ssPageName=STRK%3AMEBIDX%3AIT&var=620499725945&_trksid=p2057872.m2749.l2649)|
 
 ### `Infos`
 
