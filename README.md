@@ -27,7 +27,7 @@
 |Both|CR1220/25/55 Holders|❕|[~1.41€ - 5pcs](https://www.aliexpress.com/item/33013461583.html?spm=a2g0s.9042311.0.0.f8694c4dkP1uS3)|
 |Both|CR1220/25/55 Coin Cell|❕| - |
 |Both|1P2T Switch MSK-12C02|❕|[~2.24€ - 20pcs](https://www.ebay.com/itm/20PCS-Mini-SPDT-1P2T-Slide-Switch-On-Off-MSK-12C02-SMD-7P-For-MP3-MP4/151723531917?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649)|
-|Both|Ear Hooks|❔|[~1.80€ 20pcs](https://www.ebay.com/itm/Wholesale-DIY-20PCS-18K-GOLD-Plated-Jewelry-Findings-Bail-Ear-Hooks-Earring-NEW/351403281846?ssPageName=STRK%3AMEBIDX%3AIT&var=620499725945&_trksid=p2057872.m2749.l2649)|
+|Both|Ear Hooks|❔|[~1.80€ - 20pcs](https://www.ebay.com/itm/Wholesale-DIY-20PCS-18K-GOLD-Plated-Jewelry-Findings-Bail-Ear-Hooks-Earring-NEW/351403281846?ssPageName=STRK%3AMEBIDX%3AIT&var=620499725945&_trksid=p2057872.m2749.l2649)|
 
 ### `Infos`
 
