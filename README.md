@@ -49,7 +49,7 @@ Methods Used to Program *ATtiny10*<br>
 # 📹 Video & Images
 [![](http://img.youtube.com/vi/1UqGlBQeKq4/0.jpg)](http://www.youtube.com/watch?v=1UqGlBQeKq4 "")
 
-<img src="/Images/Img1.jpg" width="150" height="150"/> <img src="/Images/Img2.jpg" width="150" height="150"/>
+<img src="/Images/Img1.jpg" width="150" height="150"/>  <img src="/Images/img3.jpg" width="150" height="150"/>  <img src="/Images/Img2.jpg" width="150" height="150"/>
 # 🌐 Internet Links
 
 |ATtiny10 Projects|Random ATtiny10|ATtiny10|
